@@ -1,0 +1,4 @@
+npx create-react-app .
+https://ahfarmer.github.io/emoji-search/
+npm install @material-ui/core
+yarn add firebase
